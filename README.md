@@ -1,6 +1,6 @@
 ## asd-command 一个致力于协助开发的命令行工具
 
-## Install
+Install
 
 __NPM__
 
@@ -19,6 +19,10 @@ $ yarn global add asd-command
 * [📄Docs](https://aichisuan.github.io/asd-command/)
 
 ### 系统的node版本需要大于9.0
+
+
+### npm link 本地调试
+
 
 ### 更新版本检查,
 

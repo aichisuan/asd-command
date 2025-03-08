@@ -1,6 +1,8 @@
 // 代码参考来自 https://github.com/kenshinji/yddict
 
-import cheerio from 'cheerio';
+import * as cheerio from 'cheerio';
+
+// conosle.log('cheerio', cheerio);
 
 export default (isChinese, body) => {
   // eslint-disable-next-line @typescript-eslint/no-unsafe-argument
